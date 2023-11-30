@@ -9,6 +9,7 @@ WSPR Beacon
 A WSPR beacon for Arduino and Si5351.
 
 rev0: manually set band using CAT commands
+
 rev1: automatically set band based on band module configuration
 
 
